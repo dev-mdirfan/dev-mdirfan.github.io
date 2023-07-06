@@ -28,12 +28,18 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://dev-mdirfan.github.io/"
 
+author:
+  name: Mohd Irfan
+  twitter: dev_irfanmd
+
 github:
   username: dev-mdirfan # change to your github username
 
 twitter:
   username: dev_irfanmd # change to your twitter username
   card: summary
+
+logo: \assets\images\favicon\favicon.ico
 
 social:
   # Change to your full name.
@@ -42,11 +48,11 @@ social:
   email: mdirfan5702@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/dev_irfanmd # change to your twitter homepage
-    - https://github.com/dev-mdirfan # change to your github homepage
+    - https://twitter.com/dev_irfanmd  # change to your twitter homepage
+    - https://github.com/dev-mdirfan  # change to your github homepage
+    - https://www.linkedin.com/in/mdirfan57/  # - https://www.linkedin.com/in/username
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
