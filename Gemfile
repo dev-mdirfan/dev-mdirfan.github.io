@@ -2,16 +2,17 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 6.0"
+gemspec
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
-
 # gem 'jekyll-compose', group: [:jekyll_plugins]
+
 
 group :test do
   gem "html-proofer", "~> 3.18"
 end
 
+# Monetization
 group :jekyll_plugins do
   gem 'jekyll-web_monetization'
 end
@@ -34,5 +35,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
-
-
