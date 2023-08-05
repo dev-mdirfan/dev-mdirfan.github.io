@@ -12,13 +12,13 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Kolkata
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone: Asia/Kolkata  
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mohd Irfan # the main title
+title: Mohd Irfan
 
 tagline: Software developer who like coding and do technical writing. # it will display as the sub-title
 
@@ -28,13 +28,9 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://dev-mdirfan.github.io/"
 
-# Added by me
 author:
   name: Mohd Irfan
   twitter: dev_irfanmd
-
-# fill in the protocol & hostname for your gravatar, e.g., 'https://gravatar.com'
-# gravatar: "https://gravatar.com/avatar/0f1c3b4b4b4b4b4b4b4b4b4b4b4b4b4b"
 
 github:
   username: dev-mdirfan # change to your github username
@@ -43,9 +39,7 @@ twitter:
   username: dev_irfanmd # change to your twitter username
   card: summary
 
-# added by me
 logo: \assets\images\favicon\favicon.ico
-
 
 social:
   # Change to your full name.
@@ -54,11 +48,11 @@ social:
   email: mdirfan5702@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/dev_irfanmd # change to your twitter homepage
-    - https://github.com/dev-mdirfan # change to your github homepage
+    - https://twitter.com/dev_irfanmd  # change to your twitter homepage
+    - https://github.com/dev-mdirfan  # change to your github homepage
+    - https://www.linkedin.com/in/mdirfan57/  # - https://www.linkedin.com/in/username
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/mdirfan57/
 
 google_site_verification: # fill in to your verification string
 
@@ -67,11 +61,10 @@ google_site_verification: # fill in to your verification string
 
 google_analytics:
   id: G-QJGZWXCLXT # fill in your Google Analytics ID
-    # Google Analytics pageviews report settings
+  # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path: # the local PV cache data, friendly to visitors from GFW region
-
 
 # Prefer color scheme setting.
 #
@@ -91,10 +84,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# img_cdn: "https://chirpy-img.netlify.app"
-# img_cdn: "https://dev-mdirfan.github.io"
 img_cdn:
-
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/images/profiles/avatar.jpg"
@@ -219,4 +209,3 @@ jekyll-archives:
 plugins:
   - jekyll/web_monetization
   - jekyll-compose
-
