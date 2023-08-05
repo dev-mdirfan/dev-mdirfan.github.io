@@ -8,7 +8,7 @@ math: true
 mermaid: true
 image:
   path: /assets/images/posts/hackerrank/python/python_post_cover-dark.png
-  alt: Arithmetic Operators
+  alt: Python Division
 ---
 
 # **Problem:** [Python Division](https://www.hackerrank.com/challenges/python-division/)
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     a = int(input())
     b = int(input())
     print(round(a/b))
-    print(round(a/b, 2))
+    print(round(a/b, 6))
 ```
 
 

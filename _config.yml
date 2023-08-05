@@ -20,10 +20,10 @@ timezone: Asia/Kolkata
 
 title: Mohd Irfan
 
-tagline: Software developer who like coding and do technical writing. # it will display as the sub-title
+tagline: I'm enthusiastic about creating software to address real-world issues, and I have a keen interest in learning new technologies and imparting knowledge to others. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Mohd Irfan, software developer who like coding and do technical writing.
+  I'm a software engineer from India. I have a bachelor's degree in Computer Science and Engineering. I'm passionate about building software that solves real-world problems. I'm also interested in learning new technologies and sharing my knowledge with others.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://dev-mdirfan.github.io/"
