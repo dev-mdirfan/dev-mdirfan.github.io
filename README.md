@@ -1,6 +1,9 @@
-# Mohd Irfan
+# Mohd Irfan - Portfolio
 
-**Preview:** [dev-mdirfan.github.io](https://dev-mdirfan.github.io/)
+**Preview:** [dev-mdirfan.github.io](https://dev-mdirfan.github.io/) or [mohdirfan.netlify.app](https://mohdirfan.netlify.app/)
+
+<!-- Start the Server -->
+<!-- bundle exec jekyll serve -->
 
 ## Skills
 
@@ -9,6 +12,12 @@
 - Jekyll
 - Data Structure and Algorithms
 - Django
+- Flask
+- HTML
+- CSS
+- Bootstrap
+- Git
+- GitHub
 
 ## License
 

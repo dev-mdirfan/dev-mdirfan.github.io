@@ -104,9 +104,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: dev-mdirfan/dev-mdirfan.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJZwC2A
+    repo_id: R_kgDOJm3uhA
     category: General
-    category_id: DIC_kwDOJZwC2M4CV_Fi
+    category_id: DIC_kwDOJm3uhM4CYwhc
     mapping: pathname # optional, default to 'pathname'
     input_position: top # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
@@ -142,6 +142,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  projects:
+    output: true
+    permalink: /project/:title/
 
 defaults:
   - scope:
@@ -172,6 +175,12 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  # - scope:
+  #     path: _projects
+  #     type: projects # see `site.collections`
+  #     values:
+  #       layout: project
+  #       comments: true
 
 sass:
   style: compressed

@@ -116,23 +116,6 @@ If you like my work and want to support me, you can do so by buying me a coffee.
 <a href="https://www.buymeacoffee.com/mdirfan57" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
 
 
-## My GitHub Stats
-
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&show_icons=true&theme=radical)
-
-## My GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&theme=radical)](https://git.io/streak-stats)
-
-## My GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-mdirfan&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## My GitHub Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- 
 
 ## My GitHub Forks
