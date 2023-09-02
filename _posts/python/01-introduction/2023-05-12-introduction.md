@@ -8,7 +8,7 @@ tags: [python]
 math: true
 mermaid: true
 image:
-  path: /assets/images/posts/01-python/01-introduction/introduction.png
+  path: /assets/images/posts/python/introduction/introduction.png
   alt: Python Introduction
 ---
 
@@ -48,19 +48,19 @@ Example:
 
 
 > Name Script Taken From: **"Monty Python's Flying Circus"** from a BBC Comedy series.
-{: .prompt-info}
+{: .prompt-info }
 
 ## Commands
 
 Run Python File:
 : 
-```shell
+```bash
 python filename.py
 ```
 
 Install External Module:
 : 
-```py
+```bash
 pip install module_name
 ```
 
@@ -70,20 +70,21 @@ REPL stands for Run Evaluate Print Loop by writing `python`.
 
 ```py
 # importing built-in modules gives no error
-import flask
-
 import random
+import math
 
 # External module need to be install
+import flask
 import pandas
-# Error: (Not Found)
+# Getting Error: (Not Found)
 
 exit()
 ```
 
-> `pip` - Package Manager of python.
-{: .prompt-tip}
+> **Note:** `pip` stands for *Preferred Installer Program* which is a package manager of python.
+{: .prompt-info }
 
+> **Some Tips:**
 > - Don't use module name as "Python file" name like flask, pandas etc.
 > - You can use multiple interpreter like python 3.9, 3.8, 3.7 e.t. simultaneously in Pycharm
 > - Module:

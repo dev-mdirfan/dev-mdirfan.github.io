@@ -2,7 +2,7 @@
 title: 01. Print "Hello World!"
 author: irfan
 date: 2021-05-01 10:33:00 +0800
-categories: [Python Programs, Introduction Programs]
+categories: [Python Programs, 01. Introduction Programs]
 tags: [print function, hello world, python]
 math: true
 mermaid: true
