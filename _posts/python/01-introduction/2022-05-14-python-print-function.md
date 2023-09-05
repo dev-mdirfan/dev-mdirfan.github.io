@@ -1,22 +1,21 @@
 ---
-title: 03. Print Function
+title: 03. Print Function in Python
 author: irfan
-date: 2023-05-14 11:33:00 +0800
+date: 2022-05-14 11:33:00 +0800
 categories: [Python, 01. Introduction]
-tags: [python, print function]
-# pin: true
+tags: [print function]
 math: true
 mermaid: true
 image:
-  path: /assets/images/posts/01-python/01-introduction/introduction.png
-  alt: Python Introduction
+  path: /assets/images/posts/python/introduction/introduction.png
+  alt: print function in python
 ---
 
 ## Syntax
 
 
 ```py
-print("Hello World)     # parameter accepts as string
+print("Hello World")     # parameter accepts as string
 
 # Error: invalid syntax
 # print(Hello World)
